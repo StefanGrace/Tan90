@@ -1,0 +1,1 @@
+<?php echo tan(deg2rad(90)) ?>
